@@ -26,3 +26,6 @@ Certifique-se de ter um navegador web moderno e conexão com a internet.
 1. Clone o repositório:
    ```bash
    git clone https://github.com/omatheussdev/pokedex.git
+
+### Contato
+matheusasouza2007@gmail.com
